@@ -1,7 +1,12 @@
 ### WHO ARE WE
 ### 🎶a registered non-profit charity organization 
 ### 👫run by students / young musicians
-### 💗 a collaborative platform for young (performing) artists to contribute to society and spread the love for music and art 
+### 💗 a collaborative platform for young artists to contribute to society and spread the love for music and art 
+
+### OUR VISION
+### 🧑🏻‍🤝‍🧑🏻 unite artists in giving back to society 
+### 🌏 share the love for art and music
+### 💁🏻 achieve beneficial influences to the wellbeing of our communities, especially for those who face life challenges because of illness, aging, social disadvantage or disabilities. 
 
 <!--
 **artisnotlimited/artisnotlimited** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
