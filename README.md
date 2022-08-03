@@ -1,7 +1,7 @@
-### _WHO ARE WE_
-### - a registered non-profit charity organization 
-    - run by students / young musicians
-    - a collaborative platform for young (performing) artists to contribute to society and spread the love for music and art 
+### WHO ARE WE
+### 🎶a registered non-profit charity organization 
+### 👫run by students / young musicians
+### 💗 a collaborative platform for young (performing) artists to contribute to society and spread the love for music and art 
 
 <!--
 **artisnotlimited/artisnotlimited** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
